@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+title: "The Unsigned Universe and the Staircase of Axioms: Language and Intelligence through the Circulation of Difference and Sameness (서명 없는 우주와 공리의 계단)"
+message: "If you use or reference this paper in your research, please cite it using the metadata below."
+type: software
+authors:
+  - family-names: "Hwang"
+    given-names: "Dae Jin"
+    affiliation: "Philosophy That Works"
+  - name: "Yeni"
+    affiliation: "Philosophy That Works"
+repository-code: "https://github.com/philosophythatworks/unsigned-universe"
+url: "https://getieum.com/"
+doi: "10.5281/zenodo.23460425"
+license: "CC-BY-4.0"
+version: "1.0.0"
+date-released: "2026-10-19"
+keywords:
+  - "Epistemology of AI"
+  - "Philosophy of Science"
+  - "Unsigned Universe"
+  - "Axioms"
+  - "Superintelligence"
+  - "Language and Intelligence"
+  - "Era of Experience"
+preferred-citation:
+  type: article
+  title: "The Unsigned Universe and the Staircase of Axioms: Language and Intelligence through the Circulation of Difference and Sameness"
+  authors:
+    - family-names: "Hwang"
+      given-names: "Dae Jin"
+      affiliation: "Philosophy That Works"
+    - name: "Yeni"
+      affiliation: "Philosophy That Works"
+  year: 2026
+  month: 10
+  institution: "Philosophy That Works"
+  doi: "10.5281/zenodo.23460425"
+  url: "https://doi.org/10.5281/zenodo.23460425"
